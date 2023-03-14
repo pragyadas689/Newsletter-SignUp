@@ -65,8 +65,3 @@ app.listen(process.env.PORT || 3000,function(){
     console.log("Serrver is running onn 3000");
 })
 
-// API KEY
-// b048e477dd9f0b3fe2beb668d2996b47-us21
-
-// unique Id
-// 24b13d9df5
